@@ -1,6 +1,6 @@
 # Project Reports
 
-Your Name
+Afraz Khan
 
-* [Tests](./reports/tests/test/)
-* [JavaDoc](./reports/javadoc/)
+* [Tests](./tests/test/)
+* [JavaDoc](./javadoc/)
